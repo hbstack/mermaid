@@ -3,5 +3,6 @@ github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mF
 github.com/hbstack/hb v0.1.0 h1:GbnJbJi9c9gdXkfESqjt5eCZZ5NQmuhbsLCnMOnPyu4=
 github.com/hbstack/hb v0.1.0/go.mod h1:0AZsAVtgylZcPEAF4bwX1Zyy/hRBGSXoj+usD/wMr4A=
 github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsKiU=
+github.com/hbstack/hb v0.1.3/go.mod h1:p+O1/GkVyi+dksOPttoPWB1g7Tjtf7Mhxu+YfYwFn4M=
 github.com/hugomods/mermaid v0.1.0 h1:4wYpgMCjpFJZ3nf03BadGM05hUcBVTvC5bHys8p8Ky0=
 github.com/hugomods/mermaid v0.1.0/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
