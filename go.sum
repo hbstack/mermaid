@@ -8,3 +8,4 @@ github.com/hbstack/hb v0.1.4/go.mod h1:MRDu9z0Iq6B3xTCS8QQ5zX0hzGKDQYMxNXm+GLXin
 github.com/hbstack/hb v0.2.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hugomods/mermaid v0.1.0 h1:4wYpgMCjpFJZ3nf03BadGM05hUcBVTvC5bHys8p8Ky0=
 github.com/hugomods/mermaid v0.1.0/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
+github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
