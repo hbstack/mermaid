@@ -1,0 +1,7 @@
+{{- if or (.HasShortcode "mermaid") (.Store.Get "hasMermaid") }}
+  <script type="module">
+    import mermaid from "{{ .Site.Params.mermaid.js_url }}";
+    window.mermaid = mermaid
+  </script>
+  {{ partialCached "mermaid/assets/init-js" . }}
+{{- end -}}
