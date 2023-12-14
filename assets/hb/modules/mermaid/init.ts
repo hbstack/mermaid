@@ -22,7 +22,7 @@
   }
 
   const theme = localStorage.getItem('hb-theme')
-  if (theme === 'dark') {
+  if (theme === 'dark' || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
     init('dark')
   }
 
