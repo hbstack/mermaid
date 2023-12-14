@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.1](https://github.com/hbstack/mermaid/compare/v0.2.0...v0.2.1) (2023-12-14)
+
+
+### Bug Fixes
+
+* correct the theme on the case of auto mode with dark color ([#105](https://github.com/hbstack/mermaid/issues/105)) ([b79ff50](https://github.com/hbstack/mermaid/commit/b79ff50e7be79181f06d16a14fa71fd7c2281d21))
+* **deps:** update dependency stylelint-scss to v6 ([6f79b2c](https://github.com/hbstack/mermaid/commit/6f79b2c8db9d623e67634e3a62040b3d9e8a8a5b))
+
 ## [0.2.0](https://github.com/hbstack/mermaid/compare/v0.1.0...v0.2.0) (2023-11-29)
 
 
