@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.2](https://github.com/hbstack/mermaid/compare/v0.2.1...v0.2.2) (2024-03-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v6.1.0 ([82afada](https://github.com/hbstack/mermaid/commit/82afada9ab5d2d875770ff9eaba5783e07072dfb))
+* **deps:** update dependency stylelint-scss to v6.2.0 ([cd71c8d](https://github.com/hbstack/mermaid/commit/cd71c8dfd3dc468ec3b22a49a4a78a7fa50504e5))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([70d87e1](https://github.com/hbstack/mermaid/commit/70d87e11ab2e6c913649d7c036e962ca2833f8c0))
+
 ## [0.2.1](https://github.com/hbstack/mermaid/compare/v0.2.0...v0.2.1) (2023-12-14)
 
 
