@@ -1,8 +1,7 @@
 .mermaid {
-    align-items: center;
-    display: flex;
-    justify-content: center;
     margin-bottom: 1rem;
+    overflow: auto;
+    text-align: center;
 
     &:not([data-processed="true"]) {
         height: 120px;
