@@ -31,3 +31,4 @@ github.com/hbstack/hb v0.12.3/go.mod h1:K+8F6OQKKAVneWZKzW/Jj3vbqaG1ewFIH/P7HKNe
 github.com/hugomods/mermaid v0.1.0 h1:4wYpgMCjpFJZ3nf03BadGM05hUcBVTvC5bHys8p8Ky0=
 github.com/hugomods/mermaid v0.1.0/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
 github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
+github.com/hugomods/mermaid v0.1.2/go.mod h1:GOID2Ko1vdrX03ZMaFNQL/vdTU1tZmGcVjOgBN8O42Y=
