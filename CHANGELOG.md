@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.2.3](https://github.com/hbstack/mermaid/compare/v0.2.2...v0.2.3) (2025-10-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v6.10.0 ([39e0715](https://github.com/hbstack/mermaid/commit/39e07157d62f9c98b9d59e65b6f7477c6d9a1c1f))
+* **deps:** update dependency stylelint-scss to v6.10.1 ([c819edc](https://github.com/hbstack/mermaid/commit/c819edc1263c22a1bafdff75e76b8ce919558cfe))
+* **deps:** update dependency stylelint-scss to v6.11.0 ([30e15d4](https://github.com/hbstack/mermaid/commit/30e15d4c60746a27ce2150e645ef1e65c99740c8))
+* **deps:** update dependency stylelint-scss to v6.11.1 ([ec06251](https://github.com/hbstack/mermaid/commit/ec06251e07d90b12b62ecbf020f74d41035774ee))
+* **deps:** update dependency stylelint-scss to v6.12.0 ([daa888b](https://github.com/hbstack/mermaid/commit/daa888b7e31e61776e7c6cb1b9b5953309d74818))
+* **deps:** update dependency stylelint-scss to v6.12.1 ([bd4d845](https://github.com/hbstack/mermaid/commit/bd4d845db39612e1e65b6658f948f15835f46e4b))
+* **deps:** update dependency stylelint-scss to v6.4.1 ([06c6776](https://github.com/hbstack/mermaid/commit/06c6776e5e80fdbc457ecb213234a775a13a8f39))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([b49c585](https://github.com/hbstack/mermaid/commit/b49c58537ab2b7cd69c14024e61ff61c69f81da5))
+* **deps:** update dependency stylelint-scss to v6.5.1 ([d74a709](https://github.com/hbstack/mermaid/commit/d74a7090114a8720d8afdfe79da732d2b45428aa))
+* **deps:** update dependency stylelint-scss to v6.6.0 ([6b60b2f](https://github.com/hbstack/mermaid/commit/6b60b2f7609f8aeaaeb31bbd5481dc45e816c7e6))
+* **deps:** update dependency stylelint-scss to v6.7.0 ([9a93a37](https://github.com/hbstack/mermaid/commit/9a93a37a6055ddb571dfb986f6a1cbf17953ed90))
+* **deps:** update dependency stylelint-scss to v6.8.0 ([8a2aeb1](https://github.com/hbstack/mermaid/commit/8a2aeb18cd134a0532df3a02f876e9c7e936cd7a))
+* **deps:** update dependency stylelint-scss to v6.8.1 ([22ada3c](https://github.com/hbstack/mermaid/commit/22ada3cd4f7491ac6628435f81cf85367388cf0c))
+* **deps:** update dependency stylelint-scss to v6.9.0 ([ed3fdee](https://github.com/hbstack/mermaid/commit/ed3fdee20ba4652448c59b25417d5108a5e3f5a0))
+
 ## [0.2.2](https://github.com/hbstack/mermaid/compare/v0.2.1...v0.2.2) (2024-05-27)
 
 
